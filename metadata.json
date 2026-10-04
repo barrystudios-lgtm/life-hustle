@@ -1,0 +1,6 @@
+{
+  "name": "American Life: Urban Life Simulator",
+  "description": "Live the American Dream in this interactive urban life simulation game. Build your career, climb from hustle to high-roller, buy real estate, date, explore city hotspots, and forge your legacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
